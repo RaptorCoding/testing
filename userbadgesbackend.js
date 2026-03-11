@@ -1,7 +1,7 @@
 window.AVIA_USER_BADGES = [
 
     {
-        name: "Ava Developer",
+        name: "Ava Gurl",
         icon: "👑",
         color: "var(--md-sys-color-primary)",
         users: [
