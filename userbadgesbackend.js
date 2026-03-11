@@ -54,7 +54,7 @@ window.AVIA_USER_BADGES = [
         ]
     },
     {
-        name: "raptor",
+        name: "testing the plugin",
         icon: "🐇",
         color: "#FCE4EC",
         users: [
